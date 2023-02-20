@@ -34,17 +34,3 @@ To install and run the project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/yourusername/find-the-differences-Web-App.git`
 2. Navigate to the project directory: `cd find-the-differences-Web-App`
 3. Install the necessary dependencies: `npm install`
-
-## Usage
-
-To start the server and play the game, run `npm start` and navigate to `localhost:3000` in your web browser. 
-
-## Contributing
-
-This project is open source and contributions are welcome. To contribute, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b my-feature-branch`
-3. Make your changes and commit them: `git commit -am 'Add new feature'`
-4. Push to the branch: `git push origin my-feature-branch`
-5. Submit a pull request
